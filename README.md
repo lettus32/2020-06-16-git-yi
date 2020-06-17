@@ -1,4 +1,4 @@
-# 2020-06-16 Git
+# 2020-06-16 Git workshop
 
 ## Local 
 
@@ -20,10 +20,10 @@
 ## Remotes
 
 - `git remote add <name> <url>`: gives the remote url a short NAME
-- `git push <where> <what>`: e.g.,`git push origin master` takes the master branch on your local computer and pushes it to the originlocation (e.g. github)
- - `git pull <where> <what> `: e.g., `git pull origin master` takes the remote master branch, and brings it to our local master branch
+- `git push <where> <what>` : e.g.,`git push origin master` takes the master branch on your local computer and pushes it to the originlocation (e.g. github)
+ - `git pull <where> <what>`: e.g., `git pull origin master` takes the remote master branch, and brings it to our local master branch
 
 ## Conflicts
 
--You can have multiple people (yourself included) work on the same file at the same place
--Git will either automatically resolve the differences or show you a conflict
+- You can have multiple people (yourself included) work on the same file at the same place
+- Git will either automatically resolve the differences or show you a conflict
