@@ -14,3 +14,9 @@
 - `git checkout <HASH>`: reverts entire folder state to <HASH>
       -`git checkout mastyer`: to go back to your latest work
 - `HEAD`:this tells you where you are looking at in history
+
+## Remotes
+
+-`git remote add <name> <url>`: gives the remote url a short NAME
+-`git push <where> <what>`: e.g.,`git push origin master` takes the master branch on your local computer and pushes it to the originlocation (e.g. github)
+ 
